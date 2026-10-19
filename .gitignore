@@ -1,0 +1,21 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Binaries and object files
+*.o
+*.dSYM/
+sequential
+openmp
+mpi
+hybrid
+tests/smoke_openmp
+tests/smoke_mpi
+tests/smoke_mpi_default
+tests/smoke_hybrid
+generate_data
+test_correctness
+
+# OS files
+.DS_Store

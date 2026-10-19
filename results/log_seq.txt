@@ -1,0 +1,6 @@
+request_id,status,server_id,score
+0,ACCEPTED,0,0.208333
+1,ACCEPTED,1,0.245000
+2,REJECTED,-1,inf
+3,ACCEPTED,0,0.333333
+4,REJECTED,-1,inf
